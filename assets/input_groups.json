@@ -1,0 +1,44 @@
+{
+  "input_groups": [
+      {
+        "name": "wallLength",
+        "label": "Wall length",
+        "value": 0,
+        "measurement": "centimeter"
+      },
+      {
+        "name": "wallHeight",
+        "label": "Wall height",
+        "value": 0,
+        "measurement": "centimeter"
+      },
+      {
+        "name": "brickLength",
+        "label": "Brick length",
+        "value": 0,
+        "measurement": "centimeter"
+      },
+      {
+        "name": "brickHeight",
+        "label": "Brick height",
+        "value": 0,
+        "measurement": "centimeter"
+      },
+      {
+        "name": "mortarJoint",
+        "label": "Mortar joint",
+        "value": 0,
+        "measurement": "centimeter"
+      },
+      {
+        "name": "wasteInPercentage",
+        "label": "Waste in %",
+        "value": 0
+      },
+      {
+        "name": "pricePerBrick",
+        "label": "Price per brick",
+        "value": 0
+      }
+    ]
+}
